@@ -28,7 +28,7 @@
   grid-gap: 30px;
   grid-template-areas:
     "work1 work2"
-  margin: 50px 0;
+
 }
 
 .work1 {
